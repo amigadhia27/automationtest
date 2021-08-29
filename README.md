@@ -15,6 +15,7 @@
 # Instructions
   * Open solution in Visual Studio 2017 or later.
   * Navigate to SeleniumTest.cs
+  * Build solution
   * Open Test Explorer and locate Addtocart Test function
   * Right click and Run selected test
   * Test should perform the automated add to cart based on the requirements mentioned via email.
