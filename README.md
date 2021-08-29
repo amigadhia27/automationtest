@@ -6,11 +6,11 @@
   * Framework 4.8
 
 # Nuget Packes used
-  * <package id="NUnit" version="3.13.2" targetFramework="net48" />
-  * <package id="NUnit3TestAdapter" version="4.0.0" targetFramework="net48" />
-  * <package id="Selenium.Support" version="3.141.0" targetFramework="net48" />
-  * <package id="Selenium.WebDriver" version="3.141.0" targetFramework="net48" />
-  * <package id="Selenium.WebDriver.ChromeDriver" version="92.0.4515.10700" targetFramework="net48" />
+  * NUnit Version="3.13.2"
+  * NUnit3TestAdapter Version="4.0.0"
+  * Selenium.Support version="3.141.0"
+  * Selenium.WebDriver Version="3.141.0"
+  * Selenium.WebDriver.ChromeDriver Version="92.0.4515.10700"
   
 # Instructions
   * Open solution in Visual Studio 2017 or later.
